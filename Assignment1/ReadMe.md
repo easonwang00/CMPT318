@@ -1,4 +1,5 @@
-#CMPT318_Assignment_1
+#Assignment1
+
 Context:
 
 Behaviour-based online intrusion detection (monitoring and analyzing control signals streamed in real time from the continuous operation of a cyber-physical system)
