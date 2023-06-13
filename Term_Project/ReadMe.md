@@ -9,4 +9,4 @@
 
  - 2.  Project report: detailed description of the experiments performed, the results obtained and their comparison for determining the best predictive model(s);
 
- - 3.  Presentation slides: summarizing the essential findings from your report
+  - 3.  Presentation slides: summarizing the essential findings from your report
