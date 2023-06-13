@@ -5,8 +5,8 @@
 
 - Project Deliverables
 
- - 1.  Developing predictive models for behavioural anomaly based online intrusion detection by monitoring and analyzing control signals streamedin real time from the continuous operation of a cyber-physical system;
+ - Developing predictive models for behavioural anomaly based online intrusion detection by monitoring and analyzing control signals streamedin real time from the continuous operation of a cyber-physical system;
 
- - 2.  Project report: detailed description of the experiments performed, the results obtained and their comparison for determining the best predictive model(s);
+ - Project report: detailed description of the experiments performed, the results obtained and their comparison for determining the best predictive model(s);
 
-  - 3.  Presentation slides: summarizing the essential findings from your report
+ - Presentation slides: summarizing the essential findings from your report
